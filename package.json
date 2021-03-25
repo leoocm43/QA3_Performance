@@ -1,0 +1,25 @@
+{
+  "name": "qa3test",
+  "version": "1.0.0",
+  "description": "QA3 performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoocm43/QA3_Performance.git"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "artillery",
+    "performance"
+  ],
+  "author": "Leonardo Campuzano Magallanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoocm43/QA3_Performance/issues"
+  },
+  "homepage": "https://github.com/leoocm43/QA3_Performance#readme"
+}
